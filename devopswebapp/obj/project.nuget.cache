@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vcsb9X83c2wCJTbQ/tIgcBaRuSvzAM4mZGP/7NDP+Lx/D7rkGSvaROUPwbJuRkjfGq15pzn8IKzYnuPU82WWFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrpia\\Documents\\DevOps\\Training\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrpia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mrpia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
